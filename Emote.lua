@@ -2,7 +2,7 @@ return {
 	{Name = "Kneeling-gift-Matching-Emote-By-chozlii", Id = 114993593798733, Price = 25},
 	{Name = "Young-hee-Head-Spin-Squid-Game", Id = 134615135651900, Price = 25},
 	{Name = "Secret-Handshake-Dance", Id = 120642514156293, Price = 25},
-	{Name = "Fashion-Spin", Id = 106398192336622, Price = 25},
+	{Name = "Fashion-Spin", Id = 130046968468383, Price = 25},
 	{Name = "BLACKPINK-Pink-Venom-Bring-the-Pain-Like", Id = 124325392724483, Price = 25},
 	{Name = "BLACKPINK-Shut-Down-Part-2", Id = 133339658621173, Price = 25},
 	{Name = "BLACKPINK-Pink-Venom-Straight-to-Ya-Dome", Id = 14548711723, Price = 25},
