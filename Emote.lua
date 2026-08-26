@@ -106,4 +106,7 @@ return {
 	{Name = "Dropkick", Id = 122990265693059, Price = 25},
 	{Name = "Possessed-Soul-Scary-Floating-Horror", Id = 106915247531735, Price = 25},
 	{Name = "Brazil-Groove", Id = 122243370061637, Price = 25},
+	{Name = "Rise Above - The Chainsmokers", Id = 13071993910, Price = 25},
+	{Name = "Basketball Head", Id = 107282826166809, Price = 25},
+	
 }
