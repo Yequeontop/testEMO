@@ -1,41 +1,109 @@
-# Compiled Lua sources
-luac.out
-
-# luarocks build files
-*.src.rock
-*.zip
-*.tar.gz
-
-# Object files
-*.o
-*.os
-*.ko
-*.obj
-*.elf
-
-# Precompiled Headers
-*.gch
-*.pch
-
-# Libraries
-*.lib
-*.a
-*.la
-*.lo
-*.def
-*.exp
-
-# Shared objects (inc. Windows DLLs)
-*.dll
-*.so
-*.so.*
-*.dylib
-
-# Executables
-*.exe
-*.out
-*.app
-*.i*86
-*.x86_64
-*.hex
-
+return {
+	{Name = "Kneeling-gift-Matching-Emote-By-chozlii", Id = 114993593798733, Price = 25},
+	{Name = "Young-hee-Head-Spin-Squid-Game", Id = 134615135651900, Price = 25},
+	{Name = "Secret-Handshake-Dance", Id = 120642514156293, Price = 25},
+	{Name = "Fashion-Spin", Id = 106398192336622, Price = 25},
+	{Name = "BLACKPINK-Pink-Venom-Bring-the-Pain-Like", Id = 124325392724483, Price = 25},
+	{Name = "BLACKPINK-Shut-Down-Part-2", Id = 133339658621173, Price = 25},
+	{Name = "BLACKPINK-Pink-Venom-Straight-to-Ya-Dome", Id = 14548711723, Price = 25},
+	{Name = "BLACKPINK-Pink-Venom-Get-em-Get-em-Get-em", Id = 76432706268874, Price = 25},
+	{Name = "TWICE-ABCD-by-Nayeon", Id = 18933761755, Price = 25},
+	{Name = "BLACKPINK-Dont-Know-What-To-Do", Id = 18855609889, Price = 25},
+	{Name = "Olympic-Dismount", Id = 18666650035, Price = 25},
+	{Name = "Team-USA-Breaking-Emote", Id = 18526338976, Price = 25},
+	{Name = "HUGO-Lets-Drive", Id = 17360720445, Price = 25},
+	{Name = "SpongeBob-Imagination", Id = 18443268949, Price = 25},
+	{Name = "Elton-John-Heart-Shuffle", Id = 70866063275153, Price = 25},
+	{Name = "Sturdy-Dance-Ice-Spice", Id = 17746270218, Price = 25},
+	{Name = "BLACKPINK-Lovesick-Girls", Id = 16874600526, Price = 25},
+	{Name = "Chappell-Roan-HOT-TO-GO", Id = 79312439851071, Price = 25},
+	{Name = "Beauty-Touchdown", Id = 16303091119, Price = 25},
+	{Name = "BLACKPINK-DDU-DU-DDU-DU", Id = 16553262614, Price = 25},
+	{Name = "Cuco-Levitate", Id = 15698511500, Price = 25},
+	{Name = "Skadoosh-Emote-Kung-Fu-Panda-4", Id = 16371235025, Price = 25},
+	{Name = "TWICE-I-GOT-YOU-Part-1", Id = 16215060261, Price = 25},
+	{Name = "BLACKPINK-Kill-This-Love", Id = 16181843366, Price = 25},
+	{Name = "BLACKPINK-Ice-Cream", Id = 16181840356, Price = 25},
+	{Name = "Victory-Dance", Id = 15506503658, Price = 25},
+	{Name = "Rock-n-Roll", Id = 15506496093, Price = 25},
+	{Name = "Olivia-Rodrigo-Fall-Back-to-Float", Id = 15554016057, Price = 25},
+	{Name = "Nicki-Minaj-Boom-Boom-Boom", Id = 15571538346, Price = 25},
+	{Name = "BLACKPINK-ROSE-On-The-Ground", Id = 131403956606655, Price = 25},
+	{Name = "BLACKPINK-LISA-Money", Id = 15679957363, Price = 25},
+	{Name = "Yungblud-Happier-Jump", Id = 15610015346, Price = 25},
+	{Name = "Nicki-Minaj-Anaconda", Id = 15571539403, Price = 25},
+	{Name = "BLACKPINK-JENNIE-You-and-Me", Id = 15439457146, Price = 25},
+	{Name = "Paris-Hilton-Checking-My-Angles", Id = 75837489916720, Price = 25},
+	{Name = "Bone-Chillin-Bop", Id = 15123050663, Price = 25},
+	{Name = "TWICE-Feel-Special", Id = 14900153406, Price = 25},
+	{Name = "Baby-Queen-Air-Guitar-Knee-Slide", Id = 14353417553, Price = 25},
+	{Name = "Baby-Queen-Dramatic-Bow", Id = 14353419229, Price = 25},
+	{Name = "Baby-Queen-Face-Frame", Id = 14353421343, Price = 25},
+	{Name = "Baby-Queen-Strut", Id = 14353425085, Price = 25},
+	{Name = "Side-to-Side", Id = 3762641826, Price = 25},
+	{Name = "Tommy-K-Pop-Mic-Drop", Id = 14024722653, Price = 25},
+	{Name = "Arm-Twist", Id = 9710992846, Price = 25},
+	{Name = "Man-City-Scorpion", Id = 13694139364, Price = 25},
+	{Name = "Tommy-Archer", Id = 13823339506, Price = 25},
+	{Name = "Man-City-Bicycle", Id = 13422286833, Price = 25},
+	{Name = "R15-Death", Id = 114899970878842, Price = 25},
+	{Name = "Elton-John-Rock-Out", Id = 11753545334, Price = 25},
+	{Name = "Greatest", Id = 3762654854, Price = 25},
+	{Name = "Show-Dem-Wrists-KSI", Id = 7202898984, Price = 25},
+	{Name = "Shuffle", Id = 75062106548189, Price = 25},
+	{Name = "Shrug", Id = 3576968026, Price = 25},
+	{Name = "Tantrum", Id = 5104374556, Price = 25},
+	{Name = "Shy", Id = 3576717965, Price = 25},
+	{Name = "Udzals-Summoning", Id = 3307604888, Price = 25},
+	{Name = "Zombie", Id = 4212496830, Price = 25},
+	{Name = "Alo-Yoga-Pose-Lotus-Position", Id = 12507097350, Price = 25},
+	{Name = "Sneaky", Id = 3576754235, Price = 25},
+	{Name = "Fishing", Id = 3994129128, Price = 25},
+	{Name = "Hero-Landing", Id = 5104377791, Price = 25},
+	{Name = "Get-Out", Id = 3934984583, Price = 25},
+	{Name = "Rock-On", Id = 5915782672, Price = 25},
+	{Name = "Nicki-Minaj-Starships", Id = 15571540519, Price = 25},
+	{Name = "Olivia-Rodrigo-Head-Bop", Id = 15554010118, Price = 25},
+	{Name = "Lasso-Trum-Tai-Verdes", Id = 7942972744, Price = 25},
+	{Name = "Flowing-Breeze", Id = 7466047578, Price = 25},
+	{Name = "On-The-Outside-Twenty-One-Pilots", Id = 7422841700, Price = 25},
+	{Name = "Hello", Id = 3576686446, Price = 25},
+	{Name = "Haha", Id = 4102315500, Price = 25},
+	{Name = "Louder", Id = 3576751796, Price = 25},
+	{Name = "Point2", Id = 3576823880, Price = 25},
+	{Name = "Drummer-Moves-Twenty-One-Pilots", Id = 7422838770, Price = 25},
+	{Name = "Fashionable", Id = 3576745472, Price = 25},
+	{Name = "Drum-Solo-Royal-Blood", Id = 6532844183, Price = 25},
+	{Name = "Bodybuilder", Id = 3994130516, Price = 25},
+	{Name = "Dizzy", Id = 3934986896, Price = 25},
+	{Name = "Boxing-Punch-KSI", Id = 7202896732, Price = 25},
+	{Name = "Dolphin-Dance", Id = 5938365243, Price = 25},
+	{Name = "Disagree", Id = 4849495710, Price = 25},
+	{Name = "Beckon", Id = 5230615437, Price = 25},
+	{Name = "Bored", Id = 5230661597, Price = 25},
+	{Name = "Fast-Hands", Id = 4272351660, Price = 25},
+	{Name = "Rock-Guitar-Royal-Blood", Id = 6532155086, Price = 25},
+	{Name = "Cobra-Arms-Tai-Verdes", Id = 7942964447, Price = 25},
+	{Name = "Break-Dance", Id = 5915773992, Price = 25},
+	{Name = "Curtsy", Id = 4646306583, Price = 25},
+	{Name = "Agree", Id = 4849487550, Price = 25},
+	{Name = "Air-Dance", Id = 4646302011, Price = 25},
+	{Name = "Mean-Mug-Tommy-Hilfiger", Id = 10214415687, Price = 25},
+	{Name = "Uprise-Tommy-Hilfiger", Id = 10214406616, Price = 25},
+	{Name = "Boom-Boom-Clap-George-Ezra", Id = 10370934040, Price = 25},
+	{Name = "Chill-Vibes-George-Ezra", Id = 10370918044, Price = 25},
+	{Name = "The-Conductor-George-Ezra", Id = 10370918044, Price = 25},
+	{Name = "Floor-Rock-Freeze-Tommy-Hilfiger", Id = 10214411646, Price = 25},
+	{Name = "Frosty-Flair-Tommy-Hilfiger", Id = 10214406616, Price = 25},
+	{Name = "BURBERRY-LOLA-ATTITUDE-NIMBUS", Id = 10147924028, Price = 25},
+	{Name = "Cha-Cha", Id = 6865013133, Price = 25},
+	{Name = "Cower", Id = 4940597758, Price = 25},
+	{Name = "Confused", Id = 4940592718, Price = 25},
+	{Name = "Mime", Id = 121558490761409, Price = 25},
+	{Name = "Fireball", Id = 93298430995886, Price = 25},
+	{Name = "Scuba", Id = 70919402339484, Price = 25},
+	{Name = "Invisible", Id = 76705098250632, Price = 25},
+	{Name = "Dropkick", Id = 122990265693059, Price = 25},
+	{Name = "Possessed-Soul-Scary-Floating-Horror", Id = 106915247531735, Price = 25},
+	{Name = "Brazil-Groove", Id = 122243370061637, Price = 25},
+}
