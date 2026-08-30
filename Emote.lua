@@ -92,7 +92,7 @@ return {
 	{Name = "Uprise-Tommy-Hilfiger", Id = 10275057230, Price = 25},
 	{Name = "Boom-Boom-Clap-George-Ezra", Id = 10370934040, Price = 25},
 	{Name = "Chill-Vibes-George-Ezra", Id = 10370918044, Price = 25},
-	{Name = "The-Conductor-George-Ezra", Id = 10370918044, Price = 25},
+	{Name = "The-Conductor-George-Ezra", Id = 10370926562, Price = 25},
 	{Name = "Floor-Rock-Freeze-Tommy-Hilfiger", Id = 10214411646, Price = 25},
 	{Name = "Frosty-Flair-Tommy-Hilfiger", Id = 10214406616, Price = 25},
 	{Name = "BURBERRY-LOLA-ATTITUDE-NIMBUS", Id = 10147924028, Price = 25},
